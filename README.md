@@ -28,7 +28,7 @@ A clean and responsive web app to track your income and expenses. Add transactio
 
 ## Demo
 
-[Insert your live demo URL here]
+[[Insert your live demo URL here](https://amcdonald9.github.io/expense-tracker/)]
 
 ---
 
